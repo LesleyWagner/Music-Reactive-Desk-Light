@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MRDL_Reactive_Leds_Test", "MRDL_Reactive_Leds_Test\MRDL_Reactive_Leds_Test.vcxproj", "{C5F80730-F44F-4478-BDAE-6634EFC2CA88}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FFTLibraryTest", "FFTLibraryTest\FFTLibraryTest.vcxproj", "{3E4DDBA2-8144-4F8A-ADD3-314AFF6C6FF2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Frequency_Visualization_Test", "Frequency_Visualization_Test\Frequency_Visualization_Test.vcxproj", "{53735B34-98D2-4C9D-ABB1-144CD41F8B6A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Teensy_ADC_Test", "Teensy_ADC_Test\Teensy_ADC_Test.vcxproj", "{FA468FA1-FB04-40B0-AFCD-94E5FDA668A1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Frequency_Visualization_ADC_Test", "Frequency_Visualization_ADC_Test\Frequency_Visualization_ADC_Test.vcxproj", "{E1F716B7-FA77-4CD0-947F-B33B99A0254C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WS2812_Serial_Library_Test", "WS2812_Serial_Library_Test\WS2812_Serial_Library_Test.vcxproj", "{0951CA21-3AEF-4891-949A-6635C0850FC5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Music_Reactive_Desk_Light", "Music_Reactive_Desk_Light\Music_Reactive_Desk_Light.vcxproj", "{CD3412F4-C591-4C28-9121-CAFC3437035A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Debug|x86.Build.0 = Debug|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.ActiveCfg = Release|Win32
+		{C5F80730-F44F-4478-BDAE-6634EFC2CA88}.Release|x86.Build.0 = Release|Win32
+		{3E4DDBA2-8144-4F8A-ADD3-314AFF6C6FF2}.Debug|x86.ActiveCfg = Debug|Win32
+		{3E4DDBA2-8144-4F8A-ADD3-314AFF6C6FF2}.Debug|x86.Build.0 = Debug|Win32
+		{3E4DDBA2-8144-4F8A-ADD3-314AFF6C6FF2}.Release|x86.ActiveCfg = Release|Win32
+		{3E4DDBA2-8144-4F8A-ADD3-314AFF6C6FF2}.Release|x86.Build.0 = Release|Win32
+		{53735B34-98D2-4C9D-ABB1-144CD41F8B6A}.Debug|x86.ActiveCfg = Debug|Win32
+		{53735B34-98D2-4C9D-ABB1-144CD41F8B6A}.Debug|x86.Build.0 = Debug|Win32
+		{53735B34-98D2-4C9D-ABB1-144CD41F8B6A}.Release|x86.ActiveCfg = Release|Win32
+		{53735B34-98D2-4C9D-ABB1-144CD41F8B6A}.Release|x86.Build.0 = Release|Win32
+		{FA468FA1-FB04-40B0-AFCD-94E5FDA668A1}.Debug|x86.ActiveCfg = Debug|Win32
+		{FA468FA1-FB04-40B0-AFCD-94E5FDA668A1}.Debug|x86.Build.0 = Debug|Win32
+		{FA468FA1-FB04-40B0-AFCD-94E5FDA668A1}.Release|x86.ActiveCfg = Release|Win32
+		{FA468FA1-FB04-40B0-AFCD-94E5FDA668A1}.Release|x86.Build.0 = Release|Win32
+		{E1F716B7-FA77-4CD0-947F-B33B99A0254C}.Debug|x86.ActiveCfg = Debug|Win32
+		{E1F716B7-FA77-4CD0-947F-B33B99A0254C}.Debug|x86.Build.0 = Debug|Win32
+		{E1F716B7-FA77-4CD0-947F-B33B99A0254C}.Release|x86.ActiveCfg = Release|Win32
+		{E1F716B7-FA77-4CD0-947F-B33B99A0254C}.Release|x86.Build.0 = Release|Win32
+		{0951CA21-3AEF-4891-949A-6635C0850FC5}.Debug|x86.ActiveCfg = Debug|Win32
+		{0951CA21-3AEF-4891-949A-6635C0850FC5}.Debug|x86.Build.0 = Debug|Win32
+		{0951CA21-3AEF-4891-949A-6635C0850FC5}.Release|x86.ActiveCfg = Release|Win32
+		{0951CA21-3AEF-4891-949A-6635C0850FC5}.Release|x86.Build.0 = Release|Win32
+		{CD3412F4-C591-4C28-9121-CAFC3437035A}.Debug|x86.ActiveCfg = Debug|Win32
+		{CD3412F4-C591-4C28-9121-CAFC3437035A}.Debug|x86.Build.0 = Debug|Win32
+		{CD3412F4-C591-4C28-9121-CAFC3437035A}.Release|x86.ActiveCfg = Release|Win32
+		{CD3412F4-C591-4C28-9121-CAFC3437035A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E64CDFF4-912E-4719-81AC-DD5C3F205F1F}
+	EndGlobalSection
+EndGlobal
